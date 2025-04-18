@@ -1,0 +1,12 @@
+A=[1,2,3,4]
+B=[2,3,4,5]
+print("A=",A)
+print("B=",B)
+print("|=",list(set(A)|set(B)))
+print("&=",list(set(A)&set(B)))
+#print("+=",list(set(A)+set(B)))
+print("-=",list(set(A)-set(B)))
+print("^=",list(set(A)^set(B)))
+#print("%=",list(set(A)%set(B)))
+#print("*=",list(set(A)*set(B)))
+#print("@=",list(set(A)@set(B)))
