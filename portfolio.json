@@ -1,1 +1,7 @@
-
+{
+  "title": "Snake & Ladder Game",
+  "description": "A fully interactive Snake & Ladder game built using Pygame.",
+  "tech": ["Python", "Pygame"],
+  "external": "https://github.com/ShantanuGV/SnakesAndLadders",
+  "featured": true
+}
